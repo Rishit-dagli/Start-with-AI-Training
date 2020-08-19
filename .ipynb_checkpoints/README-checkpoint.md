@@ -8,6 +8,6 @@ Repo for [@VijayaGB98](https://github.com/VijayaGB98) and my talk on AI Step 0: 
 ![GitHub followers](https://img.shields.io/github/followers/Rishit-dagli?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/rishit_dagli?style=social)
 
-![](images/start-with-ai.jpg)
-
 ## [Registration URL](https://bit.ly/start-with-ai-register)
+
+![](images/start-with-ai.jpg)
