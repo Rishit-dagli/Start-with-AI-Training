@@ -10,4 +10,6 @@ Repo for [@VijayaGB98](https://github.com/VijayaGB98) and my talk on AI Step 0: 
 
 ## [Registration URL](https://bit.ly/start-with-ai-register)
 
+## [Recording](https://www.youtube.com/watch?v=leW5AdAPwYI)
+
 ![](images/start-with-ai.jpg)
